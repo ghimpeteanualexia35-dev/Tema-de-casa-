@@ -1,4 +1,4 @@
-# Tema Python – Proiecte
+# Tema Python 
 
 Acest repository conține două aplicații Python realizate pentru materia de Python. Proiectele demonstrează utilizarea claselor și moștenirii, lucrul cu fișiere CSV și afișarea datelor sub formă de grafice.
 
